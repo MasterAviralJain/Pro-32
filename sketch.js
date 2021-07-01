@@ -75,5 +75,6 @@ var time = datetime.slice (11,13);
 
     //load the image in backgroundImg variable here
 backgroundImg=loadImage(bg);
+
 }
 
